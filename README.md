@@ -13,8 +13,7 @@
 
 💻 **Tech Stack:**  
 - **Languages:** Python, C++, Java, JavaScript, PHP, SQL  
-- **Libraries/Frameworks:** TensorFlow, CV2, Keras, NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Transformers, gTTS, Chaqopy, Bootstrap, Streamlit, React.js, Flask, Laravel 
-- **Frameworks:** Flask, React.js, Streamlit, Laravel  
+- **Libraries/Frameworks:** TensorFlow, CV2, Keras, NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Transformers, gTTS, Chaqopy, Bootstrap, Streamlit, React.js, Flask, Laravel  
 - **Machine Learning:** Time Series Predictive Analysis, PSO, PCA, KNN, Decision Tree, Random Forest, SVM, Naive Bayes, Regression, Boosting
 - **Deep Learning:** Transfer Learning, Object Detection and Segmentation Regularization, Batch Normalization, Optimization of Algorithm, RNN, LSTM 
 
