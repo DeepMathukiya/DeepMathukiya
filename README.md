@@ -20,12 +20,6 @@
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, Docker, Firebase  
 
-🔬 **Projects:**  
-- **SignToSpeech**: Real-time **Gujarati Sign Language** to Speech translation using **AR & CNNs**  
-- **FloodPre**: AI-powered **flood prediction & mapping** platform for risk assessment  
-- **AgriSense AI**: A **smart agriculture assistant** that predicts plant diseases using **CNNs & AR**  
-- **Medecio**: A hospital platform integrating **speech-to-text prescriptions & disease prediction**  
-
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=google-chrome)](https://deepmportfolio.web.app)  
