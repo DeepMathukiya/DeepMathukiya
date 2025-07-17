@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Deep Mathukiya  
 
-🚀 **Pre-Final Year B.Tech Student | AI & ML Enthusiast | Data Science & Software Developer**  
+🚀 **Final Year B.Tech Student | AI & ML Enthusiast | Data Science & Software Developer**  
 
 🎯 Passionate about building AI-driven solutions that make an impact. From **sign language translation** to **flood risk prediction**, I love solving real-world problems with cutting-edge technologies.  
 
